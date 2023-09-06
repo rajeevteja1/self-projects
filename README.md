@@ -7,12 +7,12 @@
 [![BuiltByDev](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![BuiltWithLov](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![MadeWithPy](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-![Issues](https://img.shields.io/github/issues/king04aman/All-In-One-Python-Projects.svg)
-![Contributors](https://img.shields.io/github/contributors/king04aman/All-In-One-Python-Projects.svg)
-![SizeInBytes](https://img.shields.io/github/repo-size/king04aman/All-In-One-Python-Projects.svg)
-![TopLanguage](https://img.shields.io/github/languages/top/king04aman/All-In-One-Python-Projects.svg)
-![LinesOfCode](https://img.shields.io/tokei/lines/github/king04aman/All-In-One-Python-Projects?color=red&label=Lines%20of%20Code)
-![PullRequests](https://img.shields.io/github/issues-pr/king04aman/All-In-One-Python-Projects.svg)
+![Issues](https://img.shields.io/github/issues/rajeevteja1/All-In-One-Python-Projects.svg)
+![Contributors](https://img.shields.io/github/contributors/rajeevteja1/All-In-One-Python-Projects.svg)
+![SizeInBytes](https://img.shields.io/github/repo-size/rajeevteja1/All-In-One-Python-Projects.svg)
+![TopLanguage](https://img.shields.io/github/languages/top/rajeevteja1/All-In-One-Python-Projects.svg)
+![LinesOfCode](https://img.shields.io/tokei/lines/github/rajeevteja1/All-In-One-Python-Projects?color=red&label=Lines%20of%20Code)
+![PullRequests](https://img.shields.io/github/issues-pr/rajeevteja1/All-In-One-Python-Projects.svg)
 
 
 <h2 align="center"> Description </h2>
@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installing
 1. Clone the repository to your local machine
     ```bash
-    git clone https://github.com/king04aman/All-In-One-Python-Projects.git
+    git clone https://github.com/rajeevteja1/All-In-One-Python-Projects.git
     ```
 2. Change directory into the cloned repository
     ```bash
@@ -66,8 +66,8 @@ Thanks go to these **Wonderful Contributors** ✨✨:
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/king04aman/All-In-One-Python-Projects/graphs/contributors">
-            <img src="https://contrib.rocks/image?repo=king04aman/All-In-One-Python-Projects" />
+			<a href="https://github.com/rajeevteja1/All-In-One-Python-Projects/graphs/contributors">
+            <img src="https://contrib.rocks/image?repo=rajeevteja1/All-In-One-Python-Projects" />
             </a>
 		</td>
 	</tr>
@@ -80,7 +80,7 @@ Thanks go to these **Wonderful Contributors** ✨✨:
 <table>
 	<tr>
         <td align="center">
-            <a href="https://github.com/king04aman">
+            <a href="https://github.com/rajeevteja1">
             <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62813940?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" width=100px height=100px />
             </a></br> 
             <h4 style="color:#ff8c00;font-weight: bolder; font-size: 15px">Aman Kumar</h4>
