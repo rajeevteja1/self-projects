@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installing
 1. Clone the repository to your local machine
     ```bash
-    git clone https://github.com/king04aman/All-In-One-Python-Projects.git
+    git clone https://github.com/All-In-One-Python-Projects.git
     ```
 2. Change directory into the cloned repository
     ```bash
