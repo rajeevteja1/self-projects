@@ -1,7 +1,7 @@
 <h1 align="center"> All-In-One-Python-Projects </h1>
 
 <!-- banner -->
-![All-In-One-Python-Projects](https://socialify.git.ci/king04aman/all-in-one-python-projects/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+![All-In-One-Python-Projects](https://socialify.git.ci/all-in-one-python-projects/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 <!-- project badges -->
 [![BuiltByDev](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
@@ -83,7 +83,7 @@ Thanks go to these **Wonderful Contributors** ✨✨:
             <a href="https://github.com/king04aman">
             <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62813940?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" width=100px height=100px />
             </a></br> 
-            <h4 style="color:#ff8c00;font-weight: bolder; font-size: 15px">Aman Kumar</h4>
+            <h4 style="color:#ff8c00;font-weight: bolder; font-size: 15px">Rajeev Teja</h4>
         </td>
     </tr>
 </table>
