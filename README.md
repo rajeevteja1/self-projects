@@ -83,7 +83,7 @@ Thanks go to these **Wonderful Contributors** ✨✨:
             <a href="https://github.com/king04aman">
             <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62813940?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" width=100px height=100px />
             </a></br> 
-            <h4 style="color:#ff8c00;font-weight: bolder; font-size: 15px">Aman Kumar</h4>
+            <h4 style="color:#ff8c00;font-weight: bolder; font-size: 15px">Rajeev Teja</h4>
         </td>
     </tr>
 </table>
