@@ -93,4 +93,4 @@ Thanks go to these **Wonderful Contributors** ✨✨:
 
 
 <hr>
-<h3 align='center'>🎉 😃 Happy Hacking 😃 🎉 </h3>
+<h3 align='center'>🎉 😃 Happy 😃 🎉 </h3>
