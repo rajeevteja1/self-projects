@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/All-In-One-Python-Projects-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/migratewin-app-be" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/migratewin_be" vcs="Git" />
   </component>
 </project>
